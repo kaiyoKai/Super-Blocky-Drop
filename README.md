@@ -1,4 +1,4 @@
-# ShapeShift-Grid 🎮  
+# Super-Blocky-Drop 🎮  
 *A moddable open-source falling-block puzzle game written in Java using JavaFX*
 
 > Inspired by classic falling-block games like Tetris.  

@@ -32,7 +32,7 @@ cd shapeshift-grid
 ./gradlew run      # or: ./gradlew desktop:run
 ```
 
-📜 Legal
+## 📜 Legal
 This project is not affiliated with or endorsed by The Tetris Company.
 “Tetris” is a registered trademark of Tetris Holding, LLC.
 This game is an original work inspired by the genre of falling-block puzzle games.

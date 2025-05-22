@@ -31,7 +31,7 @@
 
 ```bash
 git clone https://github.com/<your-user>/super-blocky-drop.git
-cd shapeshift-grid
+cd super-blocky-drop
 ./gradlew run      # or: ./gradlew desktop:run
 ```
 

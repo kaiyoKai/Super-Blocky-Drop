@@ -1,3 +1,6 @@
+[README auf Deutsch/README in German](README.de.md)
+
+
 # Super-Blocky-Drop 🎮  
 *A moddable open-source falling-block puzzle game written in Java using JavaFX*
 
@@ -27,7 +30,7 @@
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/<your-user>/shapeshift-grid.git
+git clone https://github.com/<your-user>/super-blocky-drop.git
 cd shapeshift-grid
 ./gradlew run      # or: ./gradlew desktop:run
 ```

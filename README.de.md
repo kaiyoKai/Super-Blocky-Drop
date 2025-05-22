@@ -30,9 +30,9 @@ Diese README ist auch auf [Englisch verfügbar](README.md)
 ## 🚀 Loslegen
 
 ```bash
-git clone https://github.com/<your-user>/shapeshift-grid.git
-cd shapeshift-grid
-./gradlew run      # oder: ./gradlew desktop:run
+git clone https://github.com/<your-user>/super-blocky-drop.git
+cd super-blocky-drop
+./gradlew run      # or: ./gradlew desktop:run
 ```
 
 ---

@@ -30,7 +30,7 @@ Diese README ist auch auf [Englisch verfügbar](README.md)
 ## 🚀 Loslegen
 
 ```bash
-git clone https://github.com/<your-user>/super-blocky-drop.git
+git clone https://github.com/kaiyoKai/Super-Blocky-Drop.git
 cd super-blocky-drop
 ./gradlew run      # or: ./gradlew desktop:run
 ```
